@@ -2,9 +2,9 @@
 class Database{
 //////==========> SESSÃO DE ACESSO AO BANCO DE DADOS
     private $host = "localhost";
-    private $db_name = "api_db";
-    private $username = "tf";
-    private $password = "Sys7f@intrA";
+    private $db_name = "nome base de dados";
+    private $username = "usuario MySQL";
+    private $password = "senha";
     public $pdo;
   
 //////==========> CONEXÃO COM A BASE DE DADOS VIA PDO
