@@ -1,8 +1,8 @@
-# veiculos
+# Teste Veículos OnCar
 Sistema simples de cadastro, busca, edição e deleção de veículos com back-end desenvolvido em PHP PDO MySQL e JSON para comunicação entre back-end e front-end, desenvolvido em HTML, CSS, JAVASCRIPT.
 
 
-# DIRETÓRIOS E ARQUIVOS DO PROJETO:
+# Diretórios e arquivos do projeto:
 
 # -veiculos/
  --index.html – html inicial, carrega todos os scripts do site e contém a div principal.
